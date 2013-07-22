@@ -1,0 +1,17 @@
+{
+    "version": "0.1",
+    "name": "Paint",
+    "description": "Paint is a paint application that let you paint on a blank canvas or on your picture/images from your phone",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/img/icons/mortar-16.png",
+        "48": "/img/icons/mortar-48.png",
+        "128": "/img/icons/mortar-128.png"
+    },
+    "developer": {
+        "name": "Frédéric Harper",
+        "url": "http://outofcomfortzone.net"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en"
+}
