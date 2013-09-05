@@ -1,5 +1,26 @@
+/* 320 X 460 base (Simulator) */
+
 html, body {
   height: 100%;
   padding: 0;
   margin: 0;
+}
+
+#canvas {
+	background-color: red;
+	float: right;
+}
+
+[role='toolbar']  {
+	width: 100%;
+	height: 30px;
+	background-color: yellow;
+	float: left;
+}
+
+@media screen and (orientation: landscape) {
+	[role='toolbar']  {
+		height: 100%;
+		width: 30px;
+	}
 }
