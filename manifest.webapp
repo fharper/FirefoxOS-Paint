@@ -4,10 +4,10 @@
     "description": "Paint is a paint application that let you paint on a blank canvas or on your picture/images from your phone",
     "launch_path": "/index.html",
     "icons": {
-        "16": "/img/ffoxpaint-16.png",
-        "48": "/img/ffoxpaint-48.png",
-        "60": "/img/ffoxpaint-60.png",
-        "128": "/img/ffoxpaint-128.png"
+        "16": "img/ffoxpaint-16.png",
+        "48": "img/ffoxpaint-48.png",
+        "60": "img/ffoxpaint-60.png",
+        "128": "img/ffoxpaint-128.png"
     },
     "developer": {
         "name": "Frédéric Harper",
